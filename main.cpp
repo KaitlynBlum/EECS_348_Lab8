@@ -1,3 +1,14 @@
+/**
+ * Author: Kaitlyn Blum
+ * KUID: 3165243
+ * Class: EECS 348
+ * Assignment: Lab 8
+ * Collaborators: ChatGPT
+ */
+
+
+
+
 
 #include <iostream>
 #include <fstream>
